@@ -1,4 +1,4 @@
-package org.example.streamApi.Filter;
+package org.example.streamApi.filter;
 
 import java.util.Arrays;
 import java.util.List;

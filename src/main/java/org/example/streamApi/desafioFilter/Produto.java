@@ -1,4 +1,4 @@
-package org.example.streamApi.DesafioFilter;
+package org.example.streamApi.desafioFilter;
 
 public class Produto {
     final double preco;

@@ -1,4 +1,4 @@
-package org.example.streamApi.DesafioFilter;
+package org.example.streamApi.desafioFilter;
 
 import java.util.Arrays;
 import java.util.List;

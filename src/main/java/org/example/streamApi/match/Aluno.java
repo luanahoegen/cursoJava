@@ -1,4 +1,4 @@
-package org.example.streamApi.Filter;
+package org.example.streamApi.match;
 
 public class Aluno {
     final String nome;

@@ -1,4 +1,4 @@
-package org.example.streamApi.DesafioMap;
+package org.example.streamApi.desafioMap;
 
 import java.util.Arrays;
 import java.util.List;
